@@ -59,7 +59,7 @@ o Draw a rectangle around a specific region of interest in the image.
 
 o Add the text "OpenCV Drawing" at the top-left corner of the image.
 
-Draw a line from the top-left to the bottom-right of the image
+### Draw a line from the top-left to the bottom-right of the image
 
 ```
 # Load the image
@@ -168,8 +168,8 @@ plt.axis("off")
 ```
 (np.float64(-0.5), np.float64(749.5), np.float64(999.5), np.float64(-0.5))
 
-
 <img width="360" height="517" alt="image" src="https://github.com/user-attachments/assets/be7c1232-3a94-40b1-801a-27ffc7470106" />
+
 ```
 # Convert RGB to GRAY
 image_gray = cv2.cvtColor(image_rgb, cv2.COLOR_RGB2GRAY)
