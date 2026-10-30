@@ -29,7 +29,7 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 ## Program Developed By:
 - Name: NEHA S
 
-- Register Number: 21222510030
+- Register Number: 212225100030
   
 ## Program:
 ### Step1:
